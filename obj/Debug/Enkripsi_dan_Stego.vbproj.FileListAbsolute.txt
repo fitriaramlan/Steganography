@@ -1,0 +1,57 @@
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\bin\Debug\Enkripsi dan Stego.exe
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\bin\Debug\Enkripsi dan Stego.pdb
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\bin\Debug\Enkripsi dan Stego.xml
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\ResolveAssemblyReference.cache
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\Enkripsi_dan_Stego.frmMain1.resources
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\Enkripsi_dan_Stego.frmEkstrakL1.resources
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\Enkripsi_dan_Stego.frmSisipL3.resources
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\Enkripsi_dan_Stego.frmSisipL2.resources
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\Enkripsi_dan_Stego.frmSisipL1.resources
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\Enkripsi_dan_Stego.Resources.resources
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\Enkripsi_dan_Stego.vbproj.GenerateResource.Cache
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\Enkripsi dan Stego.exe
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\Enkripsi dan Stego.xml
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\Enkripsi dan Stego.pdb
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\Enkripsi_dan_Stego.frmLaporan.resources
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\Enkripsi_dan_Stego.frmDekripsi.resources
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\Enkripsi_dan_Stego.frmEnkripsi.resources
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\Enkripsi_dan_Stego.frmPerbandingan.resources
+F:\SKRIPSI 2015\MIKRO\TI\Enkripsi & Stego (2)\Program\obj\Debug\Enkripsi_dan_Stego.frmNoise.resources
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\obj\Debug\Enkripsi dan Stego.exe
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\obj\Debug\Enkripsi dan Stego.xml
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\obj\Debug\Enkripsi dan Stego.pdb
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\bin\Debug\Enkripsi dan Stego.exe
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\bin\Debug\Enkripsi dan Stego.pdb
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\bin\Debug\Enkripsi dan Stego.xml
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\obj\Debug\Enkripsi_dan_Stego.frmNoise.resources
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\obj\Debug\Enkripsi_dan_Stego.frmMain1.resources
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\obj\Debug\Enkripsi_dan_Stego.frmEkstrakL1.resources
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\obj\Debug\Enkripsi_dan_Stego.frmPerbandingan.resources
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\obj\Debug\Enkripsi_dan_Stego.frmSisipL3.resources
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\obj\Debug\Enkripsi_dan_Stego.frmSisipL2.resources
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\obj\Debug\Enkripsi_dan_Stego.frmDekripsi.resources
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\obj\Debug\Enkripsi_dan_Stego.frmEnkripsi.resources
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\obj\Debug\Enkripsi_dan_Stego.frmSisipL1.resources
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\obj\Debug\Enkripsi_dan_Stego.Resources.resources
+C:\Users\Ikhsanul Abrar\Desktop\22.06.2015\Program\obj\Debug\Enkripsi_dan_Stego.vbproj.GenerateResource.Cache
+C:\Users\Ikhsanul Abrar\Desktop\TA\Program\obj\Debug\Enkripsi dan Stego.exe
+C:\Users\Ikhsanul Abrar\Desktop\TA\Program\obj\Debug\Enkripsi dan Stego.xml
+C:\Users\Ikhsanul Abrar\Desktop\TA\Program\obj\Debug\Enkripsi dan Stego.pdb
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\obj\Debug\Enkripsi dan Stego.exe
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\obj\Debug\Enkripsi dan Stego.xml
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\obj\Debug\Enkripsi dan Stego.pdb
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\bin\Debug\Enkripsi dan Stego.exe
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\bin\Debug\Enkripsi dan Stego.pdb
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\bin\Debug\Enkripsi dan Stego.xml
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\obj\Debug\Enkripsi_dan_Stego.frmNoise.resources
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\obj\Debug\Enkripsi_dan_Stego.frmMain1.resources
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\obj\Debug\Enkripsi_dan_Stego.frmEkstrakL1.resources
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\obj\Debug\Enkripsi_dan_Stego.frmPerbandingan.resources
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\obj\Debug\Enkripsi_dan_Stego.frmSisipL3.resources
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\obj\Debug\Enkripsi_dan_Stego.frmSisipL2.resources
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\obj\Debug\Enkripsi_dan_Stego.frmDekripsi.resources
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\obj\Debug\Enkripsi_dan_Stego.frmEnkripsi.resources
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\obj\Debug\Enkripsi_dan_Stego.frmSisipL1.resources
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\obj\Debug\Enkripsi_dan_Stego.Resources.resources
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\obj\Debug\Enkripsi_dan_Stego.vbproj.GenerateResource.Cache
+C:\Users\Ikhsanul Abrar\Desktop\SIDANG\Program\obj\Debug\Enkripsi_dan_Stego.frmMengenai.resources

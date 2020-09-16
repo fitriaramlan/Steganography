@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D43B9C28-3372-47D1-8EC2-873FDC82AD93}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Enkripsi_dan_Stego.My.MyApplication</StartupObject>
+    <RootNamespace>Enkripsi_dan_Stego</RootNamespace>
+    <AssemblyName>Enkripsi dan Stego</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Enkripsi dan Stego.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Enkripsi dan Stego.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmMengenai.Designer.vb">
+      <DependentUpon>frmMengenai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMengenai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNoise.Designer.vb">
+      <DependentUpon>frmNoise.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNoise.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain1.Designer.vb">
+      <DependentUpon>frmMain1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEkstrakL1.Designer.vb">
+      <DependentUpon>frmEkstrakL1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEkstrakL1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPerbandingan.designer.vb">
+      <DependentUpon>frmPerbandingan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPerbandingan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSisipL3.Designer.vb">
+      <DependentUpon>frmSisipL3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSisipL3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSisipL2.Designer.vb">
+      <DependentUpon>frmSisipL2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSisipL2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDekripsi.Designer.vb">
+      <DependentUpon>frmDekripsi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDekripsi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEnkripsi.Designer.vb">
+      <DependentUpon>frmEnkripsi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEnkripsi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSisipL1.Designer.vb">
+      <DependentUpon>frmSisipL1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSisipL1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="Module2.vb" />
+    <Compile Include="Module4.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmMengenai.resx">
+      <DependentUpon>frmMengenai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNoise.resx">
+      <DependentUpon>frmNoise.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain1.resx">
+      <DependentUpon>frmMain1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEkstrakL1.resx">
+      <DependentUpon>frmEkstrakL1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPerbandingan.resx">
+      <DependentUpon>frmPerbandingan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSisipL3.resx">
+      <DependentUpon>frmSisipL3.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSisipL2.resx">
+      <DependentUpon>frmSisipL2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDekripsi.resx">
+      <DependentUpon>frmDekripsi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEnkripsi.resx">
+      <DependentUpon>frmEnkripsi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSisipL1.resx">
+      <DependentUpon>frmSisipL1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
